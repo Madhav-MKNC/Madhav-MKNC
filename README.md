@@ -11,7 +11,7 @@
 
 - Ask me about **Cybersecurity & Networking**
 
-- site: [madhav-mknc](madhav-mknc.github.io/portfolio)
+- site: [madhav-mknc](https://madhav-mknc.github.io/portfolio/)
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">

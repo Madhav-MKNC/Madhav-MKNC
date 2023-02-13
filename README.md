@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhav-mknc" alt="madhav-mknc" /></a> </p>
 
-- 🔭 I’m currently working on **Decentralised Net**
+- I’m currently working on **Decentralised Net**
 
-- 🌱 I’m currently learning **Ethereum**
+- I’m currently learning **Blockchain**
 
-- 💬 Ask me about **Cybersecurity & Networking**
+- Ask me about **Cybersecurity & Networking**
 
-- 📄 Know about me [madhav-mknc.github.io/portfolio](madhav-mknc.github.io/portfolio)
+- site: [madhav-mknc](madhav-mknc.github.io/portfolio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

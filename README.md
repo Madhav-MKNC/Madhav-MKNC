@@ -32,4 +32,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhav-mknc&theme=dark&background=000000" alt="madhav-mknc" /></p>
 
+![Visitor Count](https://profile-counter.glitch.me/madhav-mknc/count.svg)
+
 

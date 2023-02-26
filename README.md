@@ -30,6 +30,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhav-mknc&show_icons=true&locale=en" alt="madhav-mknc" /></p>
 
+
+<p align='center'><a href="#"><img src="https://github-readme-stats.vercel.app/api?username=madhav-mknc&count_private=true&show_icons=true&theme=chartreuse-dark" width="400"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhav-mknc&count_private=true&layout=compact&theme=highcontrast" width="335"></a></p>
+
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhav-mknc&theme=dark&background=000000" alt="madhav-mknc" /></p>
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/madhav-mknc/count.svg) -->

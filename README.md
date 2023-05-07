@@ -18,7 +18,7 @@
 
 <p align='center'><a href="#"><img src="https://github-readme-stats.vercel.app/api?username=madhav-mknc&count_private=true&show_icons=true&theme=chartreuse-dark" width="400"></a></p>
 
-<p align='center'><a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhav-mknc&count_private=true&layout=compact&theme=highcontrast&langs_count=100&include_all_commits=true" width="335"></a></p>
+<p align='center'><a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhav-mknc&count_private=true&layout=compact&theme=highcontrast&langs_count=15&include_all_commits=true" width="335"></a></p>
 
 <p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhav-mknc&theme=dark&count_private=true&background=000000" alt="madhav-mknc" /></p>
 

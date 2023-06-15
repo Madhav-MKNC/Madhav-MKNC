@@ -18,11 +18,7 @@
 
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=madhav-mknc&show_icons=true&theme=chartreuse-dark&count_private=true&PAT_1" width="400"></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=madhav-mknc&show_icons=true&theme=chartreuse-dark&PAT_1" width="400"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=madhav-mknc&show_icons=true&theme=chartreuse-dark&include_all_commits=true&PAT_1" width="400"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=madhav-mknc&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&PAT_1" width="400"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=madhav-mknc&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true&PAT_1" width="400"></a>
 </p>
 
 <p align='center'>

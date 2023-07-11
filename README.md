@@ -3,13 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhav-mknc&label=Profile%20views&color=0e75b6&style=flat" alt="madhav-mknc" /> </p>
 
-- I’m currently working on **Decentralised Net**
+- I’m currently working on **Decentralised Net** 
 
-- I’m currently learning **Blockchain**
+- Presently, I have a deep interest in exploring **LLMs** and harnessing their potential to solve problems and create interesting applications
+
+- I am also learning **Blockchain**
 
 - Ask me about **Cybersecurity & Networking**
 
-- site: [madhav-mknc](https://madhav-mknc.github.io/portfolio/)
+- site: *[madhav-mknc](https://madhav-mknc.github.io/portfolio/)*
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhav-mknc&column=8" alt="madhav-mknc" /></a> </p> 
 

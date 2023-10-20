@@ -21,7 +21,7 @@
 
 <p align='center'>
   <a href="https://github-readme-stats.vercel.app/api?username=madhav-mknc&count_private=true&show_icons=true&theme=chartreuse-dark&PAT_1">
-    <img src="https://github-readme-stats.vercel.app/api?username=madhav-mknc&count_private=true&show_icons=true&theme=chartreuse-dark&PAT_1" width="400">
+    <img src="https://github-readme-stats.vercel.app/api?username=madhav-mknc&count_private=true&show_icons=true&theme=chartreuse-dark&PAT_1&hide=html,css" width="400">
   </a>
 </p>
 

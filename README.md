@@ -21,13 +21,13 @@
 
 <p align='center'>
   <a href="https://github-readme-stats.vercel.app/api?username=madhav-mknc&count_private=true&show_icons=true&theme=chartreuse-dark&PAT_1">
-    <img src="https://github-readme-stats.vercel.app/api?username=madhav-mknc&count_private=true&show_icons=true&theme=chartreuse-dark&PAT_1&hide=html,css" width="400">
+    <img src="https://github-readme-stats.vercel.app/api?username=madhav-mknc&count_private=true&show_icons=true&theme=chartreuse-dark&PAT_1" width="400">
   </a>
 </p>
 
 <p align='center'>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=madhav-mknc&count_private=true&layout=compact&theme=highcontrast&langs_count=15&include_all_commits=true&PAT_1">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhav-mknc&count_private=true&layout=compact&theme=highcontrast&langs_count=15&include_all_commits=true&PAT_1" width="335">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=madhav-mknc&count_private=true&layout=compact&theme=highcontrast&langs_count=15&include_all_commits=true&PAT_1&hide=html,css">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhav-mknc&count_private=true&layout=compact&theme=highcontrast&langs_count=15&include_all_commits=true&PAT_1&hide=html,css" width="335">
   </a>
 </p>
 

@@ -1,9 +1,9 @@
 <!-- <h1 align="center">hello_friend, I am Madhav_Kumar</h1> -->
 <!-- <h3 align="center">A passionate software developer and Cybersecurity enthusiast based in New Delhi, India</h3> -->
 
-## मैं माधव कुमार हूँ।
+## माधव कुमार
 
-#### भविष्य के नवाचारी विचारों की तलाश में और उन्हें साकार कर रहा हूँ।
+#### मैं भविष्य के नवाचारी विचारों की तलाश में हूँ और उन्हें साकार कर रहा हूँ।
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhav-mknc&label=Profile%20views&color=0e75b6&style=flat" alt="madhav-mknc" /> </p>
 

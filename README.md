@@ -1,9 +1,6 @@
-<!-- <h1 align="center">hello_friend, I am Madhav_Kumar</h1> -->
-<!-- <h3 align="center">A passionate software developer and Cybersecurity enthusiast based in New Delhi, India</h3> -->
+# ｈｅｌｌｏ sys， Ｉ ａｍ Ｍａｄｈａｖ＿Ｋｕｍａｒ
 
-## माधव कुमार
-
-#### मैं भविष्य के नवाचारी विचारों की तलाश में हूँ और उन्हें साकार कर रहा हूँ।
+𝑨 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒔𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒂𝒏𝒅 𝑪𝒚𝒃𝒆𝒓𝒔𝒆𝒄𝒖𝒓𝒊𝒕𝒚 𝒆𝒏𝒕𝒉𝒖𝒔𝒊𝒂𝒔𝒕 𝒃𝒂𝒔𝒆𝒅 𝒊𝒏 𝑵𝒆𝒘 𝑫𝒆𝒍𝒉𝒊, 𝑰𝒏𝒅𝒊𝒂"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhav-mknc&label=Profile%20views&color=0e75b6&style=flat" alt="madhav-mknc" /> </p>
 
@@ -11,7 +8,7 @@
 
 - Presently, I have a deep interest in exploring **LLMs** and harnessing their potential to solve problems and create interesting applications
 
-- Ask me about **Cybersecurity & Computer Networking**
+- Ask me about **Cybersecurity, Gen AI & Computer Networking**
 
 - site: *[madhav-mknc](https://madhav-mknc.github.io/portfolio/)*
 
@@ -28,8 +25,8 @@
 </p>
 
 <p align='center'>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=madhav-mknc&count_private=true&layout=compact&theme=highcontrast&langs_count=15&include_all_commits=true&PAT_1">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhav-mknc&count_private=true&layout=compact&theme=highcontrast&langs_count=15&include_all_commits=true&PAT_1" width="335">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=madhav-mknc&count_private=true&layout=compact&theme=highcontrast&langs_count=20&include_all_commits=true&PAT_1">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhav-mknc&count_private=true&layout=compact&theme=highcontrast&langs_count=20&include_all_commits=true&PAT_1" width="335">
   </a>
 </p>
 
@@ -40,3 +37,5 @@
 </p>
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/madhav-mknc/count.svg) -->
+
+<p align='center'>Ｃｒｅｄｏ ｉｎ ａｐｅｒｔｏ ｆｏｎｔｅ ｉｌｌｕｍｉｎａｔｉ</p>

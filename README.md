@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhav-mknc&label=Profile%20views&color=0e75b6&style=flat" alt="madhav-mknc" /> </p>
 
-- I’m currently working on **Decentralised Net** 
+- I’m currently working on **Decentralised Net** and **Project VEYRNA**
 
 - Presently, I have a deep interest in exploring **LLMs** and harnessing their potential to solve problems and create interesting applications
 
@@ -29,7 +29,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhav-mknc&count_private=true&layout=compact&theme=highcontrast&langs_count=20&include_all_commits=true&PAT_1" width="335">
   </a>
 </p>
-
+<!--
 <p align='center'>
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=madhav-mknc&theme=dark&count_private=true&background=000000&PAT_1">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhav-mknc&theme=dark&count_private=true&background=000000&PAT_1" alt="madhav-mknc" />

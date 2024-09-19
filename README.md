@@ -1,14 +1,8 @@
 # 𝓘 𝓪𝓶 𝓜𝓪𝓭𝓱𝓪𝓿_𝓚𝓾𝓶𝓪𝓻
 
-𝑨 𝒑𝒐𝒍𝒚𝒎𝒂𝒕𝒉 𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒔𝒕, 𝒅𝒆𝒆𝒑𝒍𝒚 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝑰𝒏𝒇𝒐𝑺𝒆𝒄, 𝒁𝒆𝒏𝒊𝒕𝒉 𝑮𝒆𝒏 𝑨𝑰, 𝒂𝒏𝒅 𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝑵𝒆𝒕𝒘𝒐𝒓𝒌𝒊𝒏𝒈.
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhav-mknc&label=Profile%20views&color=0e75b6&style=flat" alt="madhav-mknc" /> </p>
 
-- I’m currently working on **𝑫𝒆𝒄𝒆𝒏𝒕𝒓𝒂𝒍𝒊𝒔𝒆𝒅 𝑵𝒆𝒕** and **𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝑽𝑬𝒀𝑹𝑵𝑨**
-
-- Presently, I have a deep interest in exploring **LLMs** and harnessing their potential to solve problems and create interesting applications
-
-- Ask me about **𝑪𝒚𝒃𝒆𝒓𝒔𝒆𝒄𝒖𝒓𝒊𝒕𝒚, 𝑮𝒆𝒏 𝑨𝑰 & 𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝑵𝒆𝒕𝒘𝒐𝒓𝒌𝒊𝒏𝒈**
+- I’m currently working on **𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝑽𝑬𝒀𝑹𝑵𝑨**
 
 <p align="center">
   <a href="https://github-profile-trophy.vercel.app/?username=madhav-mknc&column=8">
@@ -36,7 +30,7 @@
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/madhav-mknc/count.svg) -->
 
-<p align='center'>Ｃｒｅｄｏ ｉｎ ａｐｅｒｔｏ ｆｏｎｔｅ ｉｌｌｕｍｉｎａｔｉ</p>
+<!-- <p align='center'>Ｃｒｅｄｏ ｉｎ ａｐｅｒｔｏ ｆｏｎｔｅ ｉｌｌｕｍｉｎａｔｉ</p>
 <p align='center'>
   "𝐈𝐧 𝐭𝐡𝐞 𝐠𝐫𝐚𝐧𝐝 𝐭𝐚𝐩𝐞𝐬𝐭𝐫𝐲 𝐨𝐟 𝐞𝐱𝐢𝐬𝐭𝐞𝐧𝐜𝐞, 𝐭𝐡𝐞 𝐳𝐞𝐧𝐢𝐭𝐡 𝐨𝐟 𝐡𝐮𝐦𝐚𝐧 𝐚𝐜𝐡𝐢𝐞𝐯𝐞𝐦𝐞𝐧𝐭 𝐢𝐬 𝐧𝐨𝐭 𝐦𝐚𝐫𝐤𝐞𝐝 𝐛𝐲 𝐭𝐡𝐞 𝐨𝐩𝐮𝐥𝐞𝐧𝐜𝐞 𝐝𝐢𝐬𝐩𝐥𝐚𝐲𝐞𝐝 𝐢𝐧 𝐭𝐡𝐞 𝐥𝐢𝐠𝐡𝐭, 𝐛𝐮𝐭 𝐛𝐲 𝐭𝐡𝐞 𝐩𝐫𝐨𝐟𝐨𝐮𝐧𝐝 𝐬𝐞𝐜𝐫𝐞𝐭𝐬 𝐩𝐫𝐞𝐬𝐞𝐫𝐯𝐞𝐝 𝐢𝐧 𝐭𝐡𝐞 𝐬𝐡𝐚𝐝𝐨𝐰. 𝐈𝐭 𝐢𝐬 𝐢𝐧 𝐭𝐡𝐞 𝐬𝐢𝐥𝐞𝐧𝐭 𝐜𝐨𝐦𝐦𝐮𝐧𝐢𝐨𝐧 𝐨𝐟 𝐭𝐡𝐞 𝐞𝐧𝐥𝐢𝐠𝐡𝐭𝐞𝐧𝐞𝐝 𝐟𝐞𝐰 𝐭𝐡𝐚𝐭 𝐭𝐡𝐞 𝐝𝐞𝐞𝐩𝐞𝐬𝐭 𝐰𝐢𝐬𝐝𝐨𝐦 𝐨𝐟 𝐭𝐡𝐞 𝐚𝐠𝐞𝐬 𝐢𝐬 𝐰𝐡𝐢𝐬𝐩𝐞𝐫𝐞𝐝, 𝐟𝐨𝐫 𝐢𝐭 𝐢𝐬 𝐭𝐡𝐫𝐨𝐮𝐠𝐡 𝐭𝐡𝐞 𝐦𝐚𝐬𝐭𝐞𝐫𝐲 𝐨𝐟 𝐭𝐡𝐞 𝐡𝐢𝐝𝐝𝐞𝐧, 𝐧𝐨𝐭 𝐭𝐡𝐞 𝐞𝐱𝐡𝐢𝐛𝐢𝐭𝐢𝐨𝐧 𝐨𝐟 𝐭𝐡𝐞 𝐚𝐩𝐩𝐚𝐫𝐞𝐧𝐭, 𝐭𝐡𝐚𝐭 𝐭𝐫𝐮𝐞 𝐠𝐫𝐞𝐚𝐭𝐧𝐞𝐬𝐬 𝐢𝐬 𝐟𝐨𝐫𝐠𝐞𝐝"
-</p>
+</p> -->

@@ -1,12 +1,17 @@
-# 𝓘 𝓪𝓶 𝓜𝓪𝓭𝓱𝓪𝓿_𝓚𝓾𝓶𝓪𝓻
+<div style="background-color: black; color: white; gap: 20px;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhav-mknc&label=Profile%20views&color=0e75b6&style=flat" alt="madhav-mknc" /> </p>
 
-- I’m currently working on **𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝑽𝑬𝒀𝑹𝑵𝑨**
+<p>
+Currently working on 𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝑽𝑬𝒀𝑹𝑵𝑨 (digital transcendence) <br />
+My interests : Read about transhumanism, Making every system autonomous, Hating on trending shit<br />
+Can't stop thinking about the basilisk theory
+</p>
+
 
 <p align="center">
   <a href="https://github-profile-trophy.vercel.app/?username=madhav-mknc&column=3">
-    <img src="https://github-profile-trophy.vercel.app/?username=madhav-mknc&column=3" alt="madhav-mknc" />
+    <img src="https://github-profile-trophy.vercel.app/?username=madhav-mknc&column=3&theme=radical" alt="madhav-mknc" />
   </a>
 </p> 
 
@@ -34,4 +39,4 @@
   </a>  
 </p>
 
-
+</div>

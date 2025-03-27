@@ -3,8 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhav-mknc&label=Profile%20views&color=0e75b6&style=flat" alt="madhav-mknc" /> </p>
 
 <p>
-Currently working on 𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝑽𝑬𝒀𝑹𝑵𝑨 (digital transcendence) <br />
-My interests : Read about transhumanism, Making every system autonomous, Hating on trending shit<br />
+Working on Project VEYRNA (transcendence) <br />
+My interests : Reading about transhumanism, Making every system autonomous, Hating on trending shit<br />
 Can't stop thinking about the basilisk theory
 </p>
 
